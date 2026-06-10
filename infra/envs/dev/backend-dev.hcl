@@ -1,3 +1,3 @@
-bucket = "oyd-exercise-3-1-20004254 "
+bucket = "oyd-exercise-3-1-20004254"
 key    = "exercise-7-2/dev/terraform.tfstate"
-region = "us-east-1"
+region = "us-west-2"
